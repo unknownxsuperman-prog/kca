@@ -1,0 +1,20 @@
+{
+  "class": "10",
+  "school": {
+    "name": "KCA High School",
+    "logo": "./school-logo.png"
+  },
+  "note": "dob values are placeholders — replace with real records. Login does not validate against dob; it is only used for the roll-number lookup that corrects the displayed name.",
+  "students": [
+    { "rollNo": "XOS-001", "name": "Nikhil B",   "dob": "2007-01-01" },
+    { "rollNo": "XOS-002", "name": "Ananya Rao",      "dob": "2011-01-01" },
+    { "rollNo": "XOS-003", "name": "Darshan K.",      "dob": "2011-01-01" },
+    { "rollNo": "XOS-004", "name": "Kavya Hegde",     "dob": "2011-01-01" },
+    { "rollNo": "XOS-005", "name": "Manish Gowda",    "dob": "2011-01-01" },
+    { "rollNo": "XOS-006", "name": "Meghana Shetty",  "dob": "2011-01-01" },
+    { "rollNo": "XOS-007", "name": "Nikhil Kumar",    "dob": "2011-01-01" },
+    { "rollNo": "XOS-008", "name": "Pruthvi Raj",     "dob": "2011-01-01" },
+    { "rollNo": "XOS-009", "name": "Sneha Patil",     "dob": "2011-01-01" },
+    { "rollNo": "XOS-010", "name": "Varun Nayak",     "dob": "2011-01-01" }
+  ]
+}
