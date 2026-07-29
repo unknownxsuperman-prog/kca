@@ -1,0 +1,14 @@
+{
+  "class": "10",
+  "exams": [
+    {
+      "code": "FA1",
+      "displayName": "Formative Assessment 1 (FA1)",
+      "shortName": "FA1",
+      "sourcePdf": "formativeassessment1.pdf",
+      "resultsFile": "results_fa1_10th.json",
+      "maxMarksPerSubject": 25,
+      "subjects": ["MATH", "SCIENCE", "KANNADA", "HINDI", "SOCIAL", "ENGLISH"]
+    }
+  ]
+}
